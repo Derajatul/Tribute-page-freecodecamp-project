@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+}
+img {
+	max-width: 80%;
+	display: block;
+	height: auto;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+    padding-top: 25px;
+}
+html {
+	background-color: grey;
+}
+#main {
+	text-align: center;
+	background-color: white;
+}
+h1 {
+	padding: 25px;
+}
+#img-div {
+	background-color: grey;
+}
+#img-caption{
+    color: white;
+    padding-bottom: 15px;
+}
+#description{
+    padding-bottom: 20px;
+}
